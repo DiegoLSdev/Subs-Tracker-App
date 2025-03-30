@@ -1,0 +1,14 @@
+{
+  "title": "Subs Tracker",
+  "text": "Track all your current subscriptions and stay on top of your finances",
+  "button": [
+    {
+      "title": "Demo (web)",
+      "url": "https://subs-tracker-frame.vercel.app/"
+    },
+    {
+      "title": "Demo (smartphone)",
+      "url": "https://subs-tracker-web.vercel.app/"
+    }
+  ]
+}
